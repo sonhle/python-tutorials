@@ -58,3 +58,6 @@ print(f(2))
 func = lambda a,b: a*b
 print(func(2,3))
 print(func(3,4))
+
+if __name__ == "__main__":
+    print("=== Function Main ===")
